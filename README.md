@@ -1,6 +1,6 @@
 # defold-mcp
 
-> **Note:** This is my first attempt at creating an MCP (Model Context Protocol) server. It may not be perfect, but I hope someone smarter than me can take what I've started and really run with it!
+> **Note:** This is my first attempt at creating an MCP (Model Context Protocol) server. It is not perfect, in fact it's missing a lot of functions, but I hope someone smarter than me can take what I've started and really run with it!
 
 ---
 
